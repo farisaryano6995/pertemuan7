@@ -17,7 +17,7 @@
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
-![output 1](gambar/tugas%201.PNG)
+![output 1](gambar/tugas%201.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](latihan1.py)
 
@@ -70,7 +70,7 @@ Maka program yang di hasil seperti berikut
      
 Seperti pada gambar berikut
 
-![output 2](gambar/tugas%202.PNG)
+![output 2](gambar/tugas%202.png)
 
 Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](latihan2.py)
 
@@ -110,7 +110,7 @@ for i in range(jum):
 angkaDec = random.uniform(0, 0.5)
     print("Data ke", i, " = ", angkaDec)
 ```
-![tampil 2](gambar/hasil2.PNG)
+![tampil 2](gambar/hasil2.png)
 
 
 
@@ -179,12 +179,12 @@ Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](pr
 
 ## Syntax program3 sebagai berikut :
 
-# ![GitHub Logo](gambar/tugas%203.PNG) <h2>
+# ![GitHub Logo](gambar/tugas%203.png) <h2>
 
 
 ## Hasil output program3 ketika runtime adalah sebagai berikut :
 
-# ![GitHub Logo](gambar/hasil3.PNG) <h2>
+# ![GitHub Logo](gambar/hasil3.png) <h2>
 
 
 
